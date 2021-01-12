@@ -18,7 +18,7 @@
     <br/> 
     <label> Confirm Password: </label> 
     <br/> 
-    <input type="password" name="password_confirm"> 
+    <input type="password" name="password_confirmation"> 
     </br> 
     <button type="submit"> Register </button> 
 </form> 
